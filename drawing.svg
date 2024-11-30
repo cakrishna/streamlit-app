@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="C:\Users\suman\Desktop\Catorrdog.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#171717"
+     bordercolor="#585858"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.759"
+     inkscape:cx="235.17787"
+     inkscape:cy="268.11594"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12489">
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:1;"
+         offset="0"
+         id="stop12485" />
+      <stop
+         style="stop-color:#80e5ff;stop-opacity:1"
+         offset="1"
+         id="stop12487" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12489"
+       id="radialGradient12557"
+       cx="63.792818"
+       cy="65.884384"
+       fx="63.792818"
+       fy="65.884384"
+       r="88.459026"
+       gradientTransform="matrix(1,0,0,0.96059253,0,2.5963371)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1">
+    <rect
+       style="fill:url(#radialGradient12557);fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+       id="rect11963"
+       width="136.94991"
+       height="136.14035"
+       x="-1.231223"
+       y="-1.3230639"
+       ry="2.0067561" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.9458px;line-height:1.25;font-family:sans-serif;fill:#8800aa;fill-opacity:1;stroke:none;stroke-width:0.723875"
+       x="49.830528"
+       y="36.947723"
+       id="text2693"><tspan
+         sodipodi:role="line"
+         id="tspan2691"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:center;text-anchor:middle;fill:#8800aa;stroke-width:0.723875"
+         x="49.830528"
+         y="36.947723"><tspan
+   style="fill:#000080"
+   id="tspan28028">CAT</tspan> </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:center;text-anchor:middle;fill:#8800aa;stroke-width:0.723875"
+         x="49.830528"
+         y="74.316925"
+         id="tspan2695">  or</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:center;text-anchor:middle;fill:#8800aa;stroke-width:0.723875"
+         x="49.830524"
+         y="111.68613"
+         id="tspan2697">       <tspan
+   style="fill:#ff0066"
+   id="tspan29374">Dog</tspan></tspan></text>
+  </g>
+</svg>
