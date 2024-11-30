@@ -15,7 +15,7 @@ col1, col2 = st.columns([1,2])
 
 with col1:
     st.subheader("Logo")
-    st.image("cats-dogs.png",width=250)
+    st.image("Cats-dogs.png",width=250)
 
 with col2:
     st.subheader("Upload Image")
