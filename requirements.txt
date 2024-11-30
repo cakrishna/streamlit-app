@@ -1,4 +1,4 @@
-tensorflow[and-cuda]==2.15.1
+tensorflow
 numpy
 pandas 
 notebook
